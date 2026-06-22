@@ -325,7 +325,7 @@ scrcpy가 실행되지 않음:
 설치:
 
 winget install -e --id Git.Git --silent --accept-source-agreements --accept-package-agreements
-winget install -e --id Anthropic.ClaudeCode --silent --accept-source-agreements --accept-package-agreements
+winget install -e --id Anthropic.Claude --silent --accept-source-agreements --accept-package-agreements
 winget install -e --id OpenAI.Codex --silent --accept-source-agreements --accept-package-agreements
 winget install -e --id OpenJS.NodeJS.LTS --silent --accept-source-agreements --accept-package-agreements
 winget install -e --id Microsoft.VisualStudioCode --silent --accept-source-agreements --accept-package-agreements
