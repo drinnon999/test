@@ -20,7 +20,7 @@ Windows 해커톤 세팅 + 웹서버 + APK 파이프라인
 PowerShell을 열고 아래 명령을 순서대로 실행한다.
 
 winget install -e --id Git.Git --silent --accept-source-agreements --accept-package-agreements
-winget install -e --id Anthropic.ClaudeCode --silent --accept-source-agreements --accept-package-agreements
+winget install -e --id Anthropic.Claude --silent --accept-source-agreements --accept-package-agreements
 winget install -e --id OpenAI.Codex --silent --accept-source-agreements --accept-package-agreements
 winget install -e --id OpenJS.NodeJS.LTS --silent --accept-source-agreements --accept-package-agreements
 winget install -e --id Microsoft.VisualStudioCode --silent --accept-source-agreements --accept-package-agreements
